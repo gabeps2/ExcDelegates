@@ -1,0 +1,13 @@
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\bin\Debug\netcoreapp3.1\ExcDelegates.exe
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\bin\Debug\netcoreapp3.1\ExcDelegates.deps.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\bin\Debug\netcoreapp3.1\ExcDelegates.runtimeconfig.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\bin\Debug\netcoreapp3.1\ExcDelegates.runtimeconfig.dev.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\bin\Debug\netcoreapp3.1\ExcDelegates.dll
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\bin\Debug\netcoreapp3.1\ExcDelegates.pdb
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\obj\Debug\netcoreapp3.1\ExcDelegates.csprojAssemblyReference.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\obj\Debug\netcoreapp3.1\ExcDelegates.csproj.CoreCompileInputs.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\obj\Debug\netcoreapp3.1\ExcDelegates.AssemblyInfoInputs.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\obj\Debug\netcoreapp3.1\ExcDelegates.AssemblyInfo.cs
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\obj\Debug\netcoreapp3.1\ExcDelegates.dll
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\obj\Debug\netcoreapp3.1\ExcDelegates.pdb
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcDelegates\obj\Debug\netcoreapp3.1\ExcDelegates.genruntimeconfig.cache
